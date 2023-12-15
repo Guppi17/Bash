@@ -66,13 +66,13 @@
 
 ## ✰ Result  
 
-- [Homework-1.1](https://drive.google.com/file/d/15y2AUhzSVJm1pVE2lLsC1sQGPs210gqm/view?usp=sharing)  
+- [Homework-1.1](https://github.com/Guppi17/Bash/blob/main/Homework-1.1.txt)  
   
 <div align="center">
 <img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
 </div>
 
-- [Homework-1.2](https://drive.google.com/file/d/123k6KphWtUaPvKnaAABgALdeQXQlHbku/view?usp=sharing)   
+- [Homework-1.2](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)   
 
 
 <br/>
