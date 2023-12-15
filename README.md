@@ -1,9 +1,9 @@
 # Git-Bash  
   
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/>
-</div>
 
+<div align="center">
+<img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
+</div>
 
 ### Homework-1.1  
 1. Открыть домашнюю директорию
@@ -63,8 +63,8 @@
 
 - [Homework-1.2](https://github.com/Guppi17/Bash/blob/main/Homework-1.2.txt)   
 
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
-</div>
 
-<br/>
+
+<div align="center">
+<img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/>
+</div>
