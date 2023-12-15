@@ -1,10 +1,7 @@
 # Git-Bash  
-  
-
 <div align="center">
 <img src="https://github.com/Guppi17/Guppi17/blob/main/yes-hi.gif" width='600'/>
 </div>
-
 ### Homework-1.1  
 1. Открыть домашнюю директорию
 2. Определить имя папки, в которой вы находитесь
