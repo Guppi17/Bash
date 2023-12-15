@@ -1,13 +1,5 @@
 # Git-Bash  
   
-
-<br/>
-<div align="center">
-<img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
- <img src="https://github.com/Guppi17/Guppi17/blob/main/star.gif"/>
-</div>
-
-<br/>
 <div align="center">
 <img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/><img src="https://github.com/Guppi17/Guppi17/blob/main/df8e36f90e6a20167f071ed1b6c10e50.gif" width='150'/>
 </div>
@@ -34,9 +26,11 @@
 18. Просмотрите содержимое двух файлов (1 и 3) сразу
 19. Используя один из редакторов, замените все строки в файле 1
 
+<br/>
+
 *.·:·.✧ ✦ ✧.·:·.* ☽ *.·:·.✧ ✦ ✧.·:·.* ☽ *.·:·.✧ ✦ ✧.·:·.* ☽ *.·:·.✧ ✦ ✧.·:·.* ☽ *.·:·.✧ ✦ ✧.·:·.*  
   
-
+<br/>
 
 
 ### Homework-1.2  
@@ -57,8 +51,7 @@
 15. Отправьте 5 пакетов на сайт artsiomrusau.com
 16. Используя GET и команду curl, получите информацию о зарегистрированных питомцах на https://petstore.swagger.io/
 17. Используя POST и команду curl, создайте нового пользователя на https://petstore.swagger.io/
-
-*.·:·.✧ ✦ ✧.·:·.* ☽ *.·:·.✧ ✦ ✧.·:·.* ☽ *.·:·.✧ ✦ ✧.·:·.* ☽ *.·:·.✧ ✦ ✧.·:·.* ☽ *.·:·.✧ ✦ ✧.·:·.*   
+ 
   
 
 <br/>  
